@@ -32,7 +32,7 @@
     "homepage": "https://github.com/politie/informant#readme",
     "dependencies": {
         "@types/verror": "^1.10.3",
-        "marky": "^1.2.0",
+        "marky": "^1.2.1",
         "tslib": "^1.8.0",
         "verror": "^1.10.0"
     },
