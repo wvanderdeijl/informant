@@ -37,7 +37,7 @@
         "verror": "^1.10.0"
     },
     "devDependencies": {
-        "@types/chai": "^4.0.4",
+        "@types/chai": "^4.2.10",
         "@types/mocha": "^2.2.44",
         "@types/node": "^8.0.47",
         "@types/sinon": "^2.3.7",
